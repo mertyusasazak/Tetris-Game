@@ -39,3 +39,7 @@ Experience added challenge as new shapes appear in gameplay.
 
 See your final score and share your achievements after the game ends.
 
+## Collaboration
+
+This project was developed in collaboration with my teammate @qanaryq.
+
